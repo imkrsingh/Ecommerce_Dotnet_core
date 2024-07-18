@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\bin\Debug\net8.0\Special_Character.exe
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\bin\Debug\net8.0\Special_Character.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\bin\Debug\net8.0\Special_Character.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\bin\Debug\net8.0\Special_Character.dll
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\bin\Debug\net8.0\Special_Character.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.dll
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\refint\Special_Character.dll
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\Special_Character.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Special_Character\obj\Debug\net8.0\ref\Special_Character.dll

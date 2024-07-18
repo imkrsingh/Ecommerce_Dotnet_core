@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\bin\Debug\net8.0\Learn_Properties.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\bin\Debug\net8.0\Learn_Properties.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\bin\Debug\net8.0\Learn_Properties.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\bin\Debug\net8.0\Learn_Properties.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\bin\Debug\net8.0\Learn_Properties.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\refint\Learn_Properties.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\Learn_Properties.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Properties\obj\Debug\net8.0\ref\Learn_Properties.dll

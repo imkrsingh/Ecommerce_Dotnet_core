@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Operator\bin\Debug\net8.0\Operator.exe
+C:\Users\manis\source\repos\ConsoleApp1\Operator\bin\Debug\net8.0\Operator.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Operator\bin\Debug\net8.0\Operator.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Operator\bin\Debug\net8.0\Operator.dll
+C:\Users\manis\source\repos\ConsoleApp1\Operator\bin\Debug\net8.0\Operator.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.dll
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\refint\Operator.dll
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\Operator.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Operator\obj\Debug\net8.0\ref\Operator.dll

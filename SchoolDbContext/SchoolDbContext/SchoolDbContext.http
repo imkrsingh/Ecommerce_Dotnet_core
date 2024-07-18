@@ -1,0 +1,6 @@
+@SchoolDbContext_HostAddress = http://localhost:5195
+
+GET {{SchoolDbContext_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

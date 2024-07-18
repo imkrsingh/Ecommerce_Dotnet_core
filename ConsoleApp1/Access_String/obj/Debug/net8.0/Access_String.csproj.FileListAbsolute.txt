@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\bin\Debug\net8.0\Access_String.exe
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\bin\Debug\net8.0\Access_String.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\bin\Debug\net8.0\Access_String.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\bin\Debug\net8.0\Access_String.dll
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\bin\Debug\net8.0\Access_String.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.dll
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\refint\Access_String.dll
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\Access_String.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Access_String\obj\Debug\net8.0\ref\Access_String.dll

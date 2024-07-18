@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\bin\Debug\net8.0\Learn-List_and_Linq.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\bin\Debug\net8.0\Learn-List_and_Linq.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\bin\Debug\net8.0\Learn-List_and_Linq.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\bin\Debug\net8.0\Learn-List_and_Linq.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\bin\Debug\net8.0\Learn-List_and_Linq.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\refint\Learn-List_and_Linq.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\Learn-List_and_Linq.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn-List_and_Linq\obj\Debug\net8.0\ref\Learn-List_and_Linq.dll

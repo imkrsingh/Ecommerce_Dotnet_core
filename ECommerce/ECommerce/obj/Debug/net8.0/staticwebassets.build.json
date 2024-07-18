@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0OmdjukAKm5fhLb0bZm8zKBxuft1M9Q5S7L3o+cbkGY=",
+  "Source": "ECommerce",
+  "BasePath": "_content/ECommerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce\\wwwroot",
+      "Source": "ECommerce",
+      "ContentRoot": "C:\\Users\\manis\\source\\repos\\ECommerce\\ECommerce\\wwwroot\\",
+      "BasePath": "_content/ECommerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

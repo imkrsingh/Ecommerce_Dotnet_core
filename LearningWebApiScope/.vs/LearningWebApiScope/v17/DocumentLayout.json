@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\controllers\\datecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\controllers\\datecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\dateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\dateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\services\\transient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\services\\transient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\services\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\services\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\services\\scopped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\services\\scopped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\interfaces\\itransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\interfaces\\itransient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\interfaces\\isingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\interfaces\\isingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\interfaces\\iscoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\interfaces\\iscoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|c:\\users\\manis\\source\\repos\\learningwebapiscope\\learningwebapiscope\\learningwebapiscope.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EE3D53F-4430-40F5-9470-CAB00C0FB953}|LearningWebApiScope\\LearningWebApiScope.csproj|solutionrelative:learningwebapiscope\\learningwebapiscope.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Controllers\\DateController.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Controllers\\DateController.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Controllers\\DateController.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Controllers\\DateController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:15:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Program.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Program.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:12:03.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scopped.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Services\\Scopped.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Services\\Scopped.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Services\\Scopped.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Services\\Scopped.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:09:03.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransient.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Interfaces\\ITransient.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Interfaces\\ITransient.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Interfaces\\ITransient.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Interfaces\\ITransient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:07:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISingleton.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Interfaces\\ISingleton.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Interfaces\\ISingleton.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Interfaces\\ISingleton.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Interfaces\\ISingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:07:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IScoped.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Interfaces\\IScoped.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Interfaces\\IScoped.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Interfaces\\IScoped.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Interfaces\\IScoped.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:06:27.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:04:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\DateResponse.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\DateResponse.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\DateResponse.cs",
+              "RelativeToolTip": "LearningWebApiScope\\DateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:10:59.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Services\\Singleton.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Services\\Singleton.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Services\\Singleton.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Services\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:09:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transient.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Services\\Transient.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Services\\Transient.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Services\\Transient.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Services\\Transient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:10:05.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:13:25.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\IStudentRepo.cs",
+              "RelativeToolTip": "LearningWebApiScope\\IStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:11:36.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Student.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\Student.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\Student.cs",
+              "RelativeToolTip": "LearningWebApiScope\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:12:24.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\StudentRepo.cs",
+              "RelativeToolTip": "LearningWebApiScope\\StudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:13:00.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LearningWebApiScope.csproj",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\LearningWebApiScope.csproj",
+              "RelativeDocumentMoniker": "LearningWebApiScope\\LearningWebApiScope.csproj",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\LearningWebApiScope\\LearningWebApiScope\\LearningWebApiScope.csproj",
+              "RelativeToolTip": "LearningWebApiScope\\LearningWebApiScope.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T13:05:42.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

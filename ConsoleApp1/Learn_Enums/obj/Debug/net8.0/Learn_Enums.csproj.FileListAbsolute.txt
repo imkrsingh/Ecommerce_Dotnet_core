@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\bin\Debug\net8.0\Learn_Enums.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\bin\Debug\net8.0\Learn_Enums.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\bin\Debug\net8.0\Learn_Enums.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\bin\Debug\net8.0\Learn_Enums.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\bin\Debug\net8.0\Learn_Enums.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\refint\Learn_Enums.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\Learn_Enums.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Enums\obj\Debug\net8.0\ref\Learn_Enums.dll

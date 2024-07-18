@@ -1,0 +1,6 @@
+@JWT_Token_Learn_HostAddress = http://localhost:5256
+
+GET {{JWT_Token_Learn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

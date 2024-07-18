@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\mymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\models\\responses\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\models\\responses\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\models\\responses\\studentdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\models\\responses\\studentdtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\models\\responses\\gradedtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\models\\responses\\gradedtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\models\\requests\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\models\\requests\\studentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\controllers\\studentcreatedtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\controllers\\studentcreatedtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\controllers\\gradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\efcoretutorialconsole.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\efcoretutorialconsole.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|c:\\users\\manis\\source\\repos\\efcoretutorialconsole\\efcoretutorialconsole\\efcoretutorialconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1839AB4-C9A9-431C-9211-0B2169FBA714}|EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj|solutionrelative:efcoretutorialconsole\\efcoretutorialconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\WeatherForecast.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:26:48.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GradeDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Responses\\GradeDtoResponse.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Models\\Responses\\GradeDtoResponse.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Responses\\GradeDtoResponse.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Models\\Responses\\GradeDtoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Responses\\StudentDtoResponse.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Models\\Responses\\StudentDtoResponse.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Responses\\StudentDtoResponse.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Models\\Responses\\StudentDtoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:25:01.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Responses\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Models\\Responses\\StudentResponse.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Responses\\StudentResponse.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Models\\Responses\\StudentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:48:08.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Grade.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Grade.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Grade.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:57:55.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\MyMappingProfile.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\MyMappingProfile.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\MyMappingProfile.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\MyMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:08:22.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Program.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:11:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\SchoolDbContext.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:17:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Student.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Student.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Student.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T11:25:52.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Requests\\StudentRequest.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Models\\Requests\\StudentRequest.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Models\\Requests\\StudentRequest.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Models\\Requests\\StudentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:20:54.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:42:52.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentCreateDtoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\StudentCreateDtoRequest.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Controllers\\StudentCreateDtoRequest.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\StudentCreateDtoRequest.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Controllers\\StudentCreateDtoRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T11:02:41.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAxwDoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:33:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GradeController.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\GradeController.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Controllers\\GradeController.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Controllers\\GradeController.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Controllers\\GradeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:58:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EFCoreTutorialConsole.http",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\EFCoreTutorialConsole.http",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\EFCoreTutorialConsole.http",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\EFCoreTutorialConsole.http",
+              "RelativeToolTip": "EFCoreTutorialConsole\\EFCoreTutorialConsole.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-05T11:25:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SchoolContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\Migrations\\SchoolContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeToolTip": "EFCoreTutorialConsole\\Migrations\\SchoolContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:41:46.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EFCoreTutorialConsole.csproj",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj",
+              "RelativeDocumentMoniker": "EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\EFCoreTutorialConsole\\EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj",
+              "RelativeToolTip": "EFCoreTutorialConsole\\EFCoreTutorialConsole.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T10:46:43.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

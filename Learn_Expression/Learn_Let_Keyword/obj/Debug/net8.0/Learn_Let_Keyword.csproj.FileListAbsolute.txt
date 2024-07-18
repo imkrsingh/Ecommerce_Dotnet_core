@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\bin\Debug\net8.0\Learn_Let_Keyword.exe
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\bin\Debug\net8.0\Learn_Let_Keyword.deps.json
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\bin\Debug\net8.0\Learn_Let_Keyword.runtimeconfig.json
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\bin\Debug\net8.0\Learn_Let_Keyword.dll
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\bin\Debug\net8.0\Learn_Let_Keyword.pdb
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.AssemblyInfo.cs
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.dll
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\refint\Learn_Let_Keyword.dll
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.pdb
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\Learn_Let_Keyword.genruntimeconfig.cache
+C:\Users\manis\source\repos\Learn_Expression\Learn_Let_Keyword\obj\Debug\net8.0\ref\Learn_Let_Keyword.dll

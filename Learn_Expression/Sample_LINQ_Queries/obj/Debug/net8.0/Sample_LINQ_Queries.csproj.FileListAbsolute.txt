@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\bin\Debug\net8.0\Sample_LINQ_Queries.exe
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\bin\Debug\net8.0\Sample_LINQ_Queries.deps.json
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\bin\Debug\net8.0\Sample_LINQ_Queries.runtimeconfig.json
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\bin\Debug\net8.0\Sample_LINQ_Queries.dll
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\bin\Debug\net8.0\Sample_LINQ_Queries.pdb
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.AssemblyInfo.cs
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.dll
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\refint\Sample_LINQ_Queries.dll
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.pdb
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\Sample_LINQ_Queries.genruntimeconfig.cache
+C:\Users\manis\source\repos\Learn_Expression\Sample_LINQ_Queries\obj\Debug\net8.0\ref\Sample_LINQ_Queries.dll

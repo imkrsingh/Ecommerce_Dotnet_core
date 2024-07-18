@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\bin\Debug\net8.0\Learn_Access_Modifier.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\bin\Debug\net8.0\Learn_Access_Modifier.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\bin\Debug\net8.0\Learn_Access_Modifier.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\bin\Debug\net8.0\Learn_Access_Modifier.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\bin\Debug\net8.0\Learn_Access_Modifier.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\refint\Learn_Access_Modifier.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\Learn_Access_Modifier.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Access_Modifier\obj\Debug\net8.0\ref\Learn_Access_Modifier.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Concat\bin\Debug\net8.0\Concat.exe
+C:\Users\manis\source\repos\ConsoleApp1\Concat\bin\Debug\net8.0\Concat.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Concat\bin\Debug\net8.0\Concat.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Concat\bin\Debug\net8.0\Concat.dll
+C:\Users\manis\source\repos\ConsoleApp1\Concat\bin\Debug\net8.0\Concat.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.dll
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\refint\Concat.dll
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\Concat.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Concat\obj\Debug\net8.0\ref\Concat.dll

@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\bin\Debug\net8.0\Learn_Constructor.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\bin\Debug\net8.0\Learn_Constructor.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\bin\Debug\net8.0\Learn_Constructor.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\bin\Debug\net8.0\Learn_Constructor.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\bin\Debug\net8.0\Learn_Constructor.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\refint\Learn_Constructor.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\Learn_Constructor.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Constructor\obj\Debug\net8.0\ref\Learn_Constructor.dll

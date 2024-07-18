@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\bin\Debug\net8.0\Learn_Polymorphism.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\bin\Debug\net8.0\Learn_Polymorphism.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\bin\Debug\net8.0\Learn_Polymorphism.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\bin\Debug\net8.0\Learn_Polymorphism.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\bin\Debug\net8.0\Learn_Polymorphism.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\refint\Learn_Polymorphism.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\Learn_Polymorphism.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Polymorphism\obj\Debug\net8.0\ref\Learn_Polymorphism.dll

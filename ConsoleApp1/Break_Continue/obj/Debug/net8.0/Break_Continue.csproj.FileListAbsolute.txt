@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\bin\Debug\net8.0\Break_Continue.exe
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\bin\Debug\net8.0\Break_Continue.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\bin\Debug\net8.0\Break_Continue.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\bin\Debug\net8.0\Break_Continue.dll
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\bin\Debug\net8.0\Break_Continue.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.dll
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\refint\Break_Continue.dll
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\Break_Continue.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Break_Continue\obj\Debug\net8.0\ref\Break_Continue.dll

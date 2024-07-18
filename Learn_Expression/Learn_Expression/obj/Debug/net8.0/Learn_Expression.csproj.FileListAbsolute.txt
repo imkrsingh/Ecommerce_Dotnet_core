@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\bin\Debug\net8.0\Learn_Expression.exe
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\bin\Debug\net8.0\Learn_Expression.deps.json
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\bin\Debug\net8.0\Learn_Expression.runtimeconfig.json
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\bin\Debug\net8.0\Learn_Expression.dll
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\bin\Debug\net8.0\Learn_Expression.pdb
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.AssemblyInfo.cs
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.dll
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\refint\Learn_Expression.dll
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.pdb
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\Learn_Expression.genruntimeconfig.cache
+C:\Users\manis\source\repos\Learn_Expression\Learn_Expression\obj\Debug\net8.0\ref\Learn_Expression.dll

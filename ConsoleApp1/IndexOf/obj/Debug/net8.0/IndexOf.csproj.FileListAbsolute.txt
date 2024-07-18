@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\bin\Debug\net8.0\IndexOf.exe
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\bin\Debug\net8.0\IndexOf.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\bin\Debug\net8.0\IndexOf.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\bin\Debug\net8.0\IndexOf.dll
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\bin\Debug\net8.0\IndexOf.pdb
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.dll
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\refint\IndexOf.dll
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.pdb
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\IndexOf.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\IndexOf\obj\Debug\net8.0\ref\IndexOf.dll

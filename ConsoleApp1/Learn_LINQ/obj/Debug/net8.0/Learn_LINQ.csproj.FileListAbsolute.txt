@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\bin\Debug\net8.0\Learn_LINQ.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\bin\Debug\net8.0\Learn_LINQ.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\bin\Debug\net8.0\Learn_LINQ.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\bin\Debug\net8.0\Learn_LINQ.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\bin\Debug\net8.0\Learn_LINQ.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\refint\Learn_LINQ.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\Learn_LINQ.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_LINQ\obj\Debug\net8.0\ref\Learn_LINQ.dll

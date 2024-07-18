@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\28686084-a774-4266-a9c8-a2af03702037.png",
+      "PackagePath": "staticwebassets\\images\\28686084-a774-4266-a9c8-a2af03702037.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\52272343-3245-462c-85b0-1560f7336696.png",
+      "PackagePath": "staticwebassets\\images\\52272343-3245-462c-85b0-1560f7336696.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\70824bc6-867c-4f2c-b007-65998c824857.jpg",
+      "PackagePath": "staticwebassets\\images\\70824bc6-867c-4f2c-b007-65998c824857.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\77fbfeeb-b000-499c-8ac8-fd072a725420.png",
+      "PackagePath": "staticwebassets\\images\\77fbfeeb-b000-499c-8ac8-fd072a725420.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\7c67e563-ba73-4ac1-b107-69601a08c02e.png",
+      "PackagePath": "staticwebassets\\images\\7c67e563-ba73-4ac1-b107-69601a08c02e.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\82126e34-83b2-4193-8d74-77312909d71f.png",
+      "PackagePath": "staticwebassets\\images\\82126e34-83b2-4193-8d74-77312909d71f.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\8dc7f11c-5d6c-41c0-a083-148cc43ec23b.jpg",
+      "PackagePath": "staticwebassets\\images\\8dc7f11c-5d6c-41c0-a083-148cc43ec23b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\94f269dd-31a8-4a6d-a98b-cfac43d08247.png",
+      "PackagePath": "staticwebassets\\images\\94f269dd-31a8-4a6d-a98b-cfac43d08247.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\95fa2350-5cca-49ec-a7d7-504ae22aceeb.jpg",
+      "PackagePath": "staticwebassets\\images\\95fa2350-5cca-49ec-a7d7-504ae22aceeb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\a4d50c8c-aa36-4d75-ad23-85188a91853c.png",
+      "PackagePath": "staticwebassets\\images\\a4d50c8c-aa36-4d75-ad23-85188a91853c.png"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\c9a17372-53ba-4606-ac56-e211739320d5_maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\images\\c9a17372-53ba-4606-ac56-e211739320d5_maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\d2b930ea-7e4c-4620-9bee-e86e07f48a4b_02fd239c-c438-40a0-b0db-a43a33bea4d9_two-color-ecommerce-icon-from-social-media-vector-25748816.jpg",
+      "PackagePath": "staticwebassets\\images\\d2b930ea-7e4c-4620-9bee-e86e07f48a4b_02fd239c-c438-40a0-b0db-a43a33bea4d9_two-color-ecommerce-icon-from-social-media-vector-25748816.jpg"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\EcomProduct\\wwwroot\\images\\d3340e78-5288-4773-89bf-0354258edc5c.png",
+      "PackagePath": "staticwebassets\\images\\d3340e78-5288-4773-89bf-0354258edc5c.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcomProduct.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcomProduct.props",
+      "PackagePath": "build\\EcomProduct.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcomProduct.props",
+      "PackagePath": "buildMultiTargeting\\EcomProduct.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcomProduct.props",
+      "PackagePath": "buildTransitive\\EcomProduct.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

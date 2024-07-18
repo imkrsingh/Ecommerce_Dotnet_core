@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Learn-List_and_Linq/1.0.0": {
+        "runtime": {
+          "Learn-List_and_Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learn-List_and_Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

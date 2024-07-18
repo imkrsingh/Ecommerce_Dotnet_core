@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\bin\Debug\net8.0\LearnDictionary.exe
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\bin\Debug\net8.0\LearnDictionary.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\bin\Debug\net8.0\LearnDictionary.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\bin\Debug\net8.0\LearnDictionary.dll
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\bin\Debug\net8.0\LearnDictionary.pdb
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.dll
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\refint\LearnDictionary.dll
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.pdb
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\LearnDictionary.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\LearnDictionary\obj\Debug\net8.0\ref\LearnDictionary.dll

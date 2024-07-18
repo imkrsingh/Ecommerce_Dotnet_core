@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\source\\repos\\Learn_Expression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52613299-4AEC-4A1F-BF92-9D972AAB2233}|Sample_LINQ_Queries\\Sample_LINQ_Queries.csproj|c:\\users\\manis\\source\\repos\\learn_expression\\sample_linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52613299-4AEC-4A1F-BF92-9D972AAB2233}|Sample_LINQ_Queries\\Sample_LINQ_Queries.csproj|solutionrelative:sample_linq_queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A611609C-52E7-453E-BCFC-52547B075B64}|Learn_Let_Keyword\\Learn_Let_Keyword.csproj|c:\\users\\manis\\source\\repos\\learn_expression\\learn_let_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A611609C-52E7-453E-BCFC-52547B075B64}|Learn_Let_Keyword\\Learn_Let_Keyword.csproj|solutionrelative:learn_let_keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\Learn_Expression\\Sample_LINQ_Queries\\Program.cs",
+              "RelativeDocumentMoniker": "Sample_LINQ_Queries\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\Learn_Expression\\Sample_LINQ_Queries\\Program.cs",
+              "RelativeToolTip": "Sample_LINQ_Queries\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:43:05.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\Learn_Expression\\Learn_Let_Keyword\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Let_Keyword\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\Learn_Expression\\Learn_Let_Keyword\\Program.cs",
+              "RelativeToolTip": "Learn_Let_Keyword\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:43:53.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\bin\Debug\net8.0\Learn_Ref_In_Out.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\bin\Debug\net8.0\Learn_Ref_In_Out.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\bin\Debug\net8.0\Learn_Ref_In_Out.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\bin\Debug\net8.0\Learn_Ref_In_Out.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\bin\Debug\net8.0\Learn_Ref_In_Out.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\refint\Learn_Ref_In_Out.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\Learn_Ref_In_Out.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Ref_In_Out\obj\Debug\net8.0\ref\Learn_Ref_In_Out.dll

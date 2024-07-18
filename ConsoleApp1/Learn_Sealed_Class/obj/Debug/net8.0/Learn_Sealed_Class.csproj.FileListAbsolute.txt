@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\bin\Debug\net8.0\Learn_Sealed_Class.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\bin\Debug\net8.0\Learn_Sealed_Class.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\bin\Debug\net8.0\Learn_Sealed_Class.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\bin\Debug\net8.0\Learn_Sealed_Class.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\bin\Debug\net8.0\Learn_Sealed_Class.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\refint\Learn_Sealed_Class.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\Learn_Sealed_Class.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Sealed_Class\obj\Debug\net8.0\ref\Learn_Sealed_Class.dll

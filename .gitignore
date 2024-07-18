@@ -1,0 +1,7 @@
+﻿q################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Identity_Framework_Learn/Identity_Framework_Learn.sln
+
+.VSIDX

@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D261474B-B18F-4C89-95B7-36A5A497EEB7}|Standard_Query_Operator\\Standard_Query_Operator.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\standard_query_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D261474B-B18F-4C89-95B7-36A5A497EEB7}|Standard_Query_Operator\\Standard_Query_Operator.csproj|solutionrelative:standard_query_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F461EFBC-6A67-4282-AE96-BC20C86D56B2}|Special_Character\\Special_Character.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\special_character\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F461EFBC-6A67-4282-AE96-BC20C86D56B2}|Special_Character\\Special_Character.csproj|solutionrelative:special_character\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF97CA0-1B7D-4239-9CF3-532169E75967}|Learn-List_and_Linq\\Learn-List_and_Linq.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn-list_and_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF97CA0-1B7D-4239-9CF3-532169E75967}|Learn-List_and_Linq\\Learn-List_and_Linq.csproj|solutionrelative:learn-list_and_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF97CA0-1B7D-4239-9CF3-532169E75967}|Learn-List_and_Linq\\Learn-List_and_Linq.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn-list_and_linq\\learn-list_and_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BF97CA0-1B7D-4239-9CF3-532169E75967}|Learn-List_and_Linq\\Learn-List_and_Linq.csproj|solutionrelative:learn-list_and_linq\\learn-list_and_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F8C617-3E07-4ACF-8518-B5B0ED0CBD93}|Learn_LINQ\\Learn_LINQ.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9F8C617-3E07-4ACF-8518-B5B0ED0CBD93}|Learn_LINQ\\Learn_LINQ.csproj|solutionrelative:learn_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBA2A4C-0303-4B35-B0E4-0084E445CFA6}|Interface\\Interface.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBA2A4C-0303-4B35-B0E4-0084E445CFA6}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA06E1-D3D1-4A40-9D5B-9FF762FFBF42}|Learn_Query_Operators\\Learn_Query_Operators.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_query_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DA06E1-D3D1-4A40-9D5B-9FF762FFBF42}|Learn_Query_Operators\\Learn_Query_Operators.csproj|solutionrelative:learn_query_operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682474BA-2D83-4F08-9531-7C5AADACF093}|Learn-Delegate\\Learn-Delegate.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn-delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682474BA-2D83-4F08-9531-7C5AADACF093}|Learn-Delegate\\Learn-Delegate.csproj|solutionrelative:learn-delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12068F03-D72C-4751-B5D6-CBE6FB733383}|Learn_Ref_In_Out\\Learn_Ref_In_Out.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_ref_in_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12068F03-D72C-4751-B5D6-CBE6FB733383}|Learn_Ref_In_Out\\Learn_Ref_In_Out.csproj|solutionrelative:learn_ref_in_out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CF1B19-B4F7-41F7-8A55-E03AF43A0C4E}|Learn_Sealed_Class\\Learn_Sealed_Class.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_sealed_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CF1B19-B4F7-41F7-8A55-E03AF43A0C4E}|Learn_Sealed_Class\\Learn_Sealed_Class.csproj|solutionrelative:learn_sealed_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9733502-B762-49C5-995E-50B5CF30EA3B}|Learn_Encapsulation\\Learn_Encapsulation.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9733502-B762-49C5-995E-50B5CF30EA3B}|Learn_Encapsulation\\Learn_Encapsulation.csproj|solutionrelative:learn_encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56536DF-7BC2-4EAD-88CD-1E4EB847FC0D}|Files\\Files.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\files\\append_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56536DF-7BC2-4EAD-88CD-1E4EB847FC0D}|Files\\Files.csproj|solutionrelative:files\\append_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF5EC8A-F522-4607-B38E-5F9B421429EF}|Learn_Polymorphism\\Learn_Polymorphism.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF5EC8A-F522-4607-B38E-5F9B421429EF}|Learn_Polymorphism\\Learn_Polymorphism.csproj|solutionrelative:learn_polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B13E9F6-EF95-4CDB-AC67-B1B0F5560EEA}|Learn_Enums\\Learn_Enums.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B13E9F6-EF95-4CDB-AC67-B1B0F5560EEA}|Learn_Enums\\Learn_Enums.csproj|solutionrelative:learn_enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0742DE-51B3-4A28-B9D4-A098A2F29BAE}|Learn_Abstract\\Learn_Abstract.csproj|c:\\users\\manis\\source\\repos\\consoleapp1\\learn_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0742DE-51B3-4A28-B9D4-A098A2F29BAE}|Learn_Abstract\\Learn_Abstract.csproj|solutionrelative:learn_abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Query_operator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Learn_Query_operator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Query_Operator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Query_Operator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Standard_Query_Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Standard_Query_Operator\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Standard_Query_Operator\\Program.cs",
+              "RelativeToolTip": "Standard_Query_Operator\\Program.cs",
+              "ViewState": "AQIAAJkDAAAAAAAAAAAgwLYDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:46:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Special_Character\\Program.cs",
+              "RelativeDocumentMoniker": "Special_Character\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Special_Character\\Program.cs",
+              "RelativeToolTip": "Special_Character\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:46:01.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn-List_and_Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Learn-List_and_Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn-List_and_Linq\\Program.cs",
+              "RelativeToolTip": "Learn-List_and_Linq\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:45:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Learn-List_and_Linq.csproj",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn-List_and_Linq\\Learn-List_and_Linq.csproj",
+              "RelativeDocumentMoniker": "Learn-List_and_Linq\\Learn-List_and_Linq.csproj",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn-List_and_Linq\\Learn-List_and_Linq.csproj",
+              "RelativeToolTip": "Learn-List_and_Linq\\Learn-List_and_Linq.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T12:45:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_LINQ\\Program.cs",
+              "RelativeToolTip": "Learn_LINQ\\Program.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAgwJgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:34:49.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Query_Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Query_Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Query_Operators\\Program.cs",
+              "RelativeToolTip": "Learn_Query_Operators\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:42:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Query_operator\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Query_operator\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Query_operator\\Program.cs",
+              "RelativeToolTip": "Learn_Query_operator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:40:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Query_Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Query_Operator\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Query_Operator\\Program.cs",
+              "RelativeToolTip": "Query_Operator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:39:27.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Ref_In_Out\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Ref_In_Out\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Ref_In_Out\\Program.cs",
+              "RelativeToolTip": "Learn_Ref_In_Out\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:49:08.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn-Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Learn-Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn-Delegate\\Program.cs",
+              "RelativeToolTip": "Learn-Delegate\\Program.cs",
+              "ViewState": "AQIAAGgBAAAAAAAAAAAAAMwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:20:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Sealed_Class\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Sealed_Class\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Sealed_Class\\Program.cs",
+              "RelativeToolTip": "Learn_Sealed_Class\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:47:36.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Append_Text.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Files\\Append_Text.cs",
+              "RelativeDocumentMoniker": "Files\\Append_Text.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Files\\Append_Text.cs",
+              "RelativeToolTip": "Files\\Append_Text.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAkwGkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:09:38.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Enums\\Program.cs",
+              "RelativeToolTip": "Learn_Enums\\Program.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwHkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:57:17.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAmwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:25:23.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Abstract\\Program.cs",
+              "RelativeToolTip": "Learn_Abstract\\Program.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAkwPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:33:15.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Encapsulation\\Program.cs",
+              "RelativeToolTip": "Learn_Encapsulation\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAG0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:56:55.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\manis\\source\\repos\\ConsoleApp1\\Learn_Polymorphism\\Program.cs",
+              "RelativeToolTip": "Learn_Polymorphism\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAQwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:35:28.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

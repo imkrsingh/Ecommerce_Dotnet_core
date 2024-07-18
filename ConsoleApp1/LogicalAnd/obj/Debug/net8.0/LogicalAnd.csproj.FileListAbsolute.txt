@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\bin\Debug\net8.0\LogicalAnd.exe
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\bin\Debug\net8.0\LogicalAnd.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\bin\Debug\net8.0\LogicalAnd.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\bin\Debug\net8.0\LogicalAnd.dll
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\bin\Debug\net8.0\LogicalAnd.pdb
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.dll
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\refint\LogicalAnd.dll
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.pdb
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\LogicalAnd.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\LogicalAnd\obj\Debug\net8.0\ref\LogicalAnd.dll

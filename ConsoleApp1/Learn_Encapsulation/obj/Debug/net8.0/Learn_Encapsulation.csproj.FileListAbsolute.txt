@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\bin\Debug\net8.0\Learn_Encapsulation.exe
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\bin\Debug\net8.0\Learn_Encapsulation.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\bin\Debug\net8.0\Learn_Encapsulation.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\bin\Debug\net8.0\Learn_Encapsulation.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\bin\Debug\net8.0\Learn_Encapsulation.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\refint\Learn_Encapsulation.dll
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\Learn_Encapsulation.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Learn_Encapsulation\obj\Debug\net8.0\ref\Learn_Encapsulation.dll

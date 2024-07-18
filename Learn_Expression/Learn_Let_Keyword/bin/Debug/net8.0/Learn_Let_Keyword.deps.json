@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Learn_Let_Keyword/1.0.0": {
+        "runtime": {
+          "Learn_Let_Keyword.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learn_Let_Keyword/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

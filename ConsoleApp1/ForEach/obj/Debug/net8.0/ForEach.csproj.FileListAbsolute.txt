@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\ForEach\obj\Debug\net8.0\ref\ForEach.dll

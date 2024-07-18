@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\bin\Debug\net8.0\Standard_Query_Operator.exe
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\bin\Debug\net8.0\Standard_Query_Operator.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\bin\Debug\net8.0\Standard_Query_Operator.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\bin\Debug\net8.0\Standard_Query_Operator.dll
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\bin\Debug\net8.0\Standard_Query_Operator.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.dll
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\refint\Standard_Query_Operator.dll
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\Standard_Query_Operator.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Standard_Query_Operator\obj\Debug\net8.0\ref\Standard_Query_Operator.dll

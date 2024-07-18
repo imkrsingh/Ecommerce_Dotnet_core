@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\manis\source\repos\ConsoleApp1\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\manis\source\repos\ConsoleApp1\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\Loops\obj\Debug\net8.0\ref\Loops.dll

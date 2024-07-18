@@ -1,0 +1,14 @@
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\bin\Debug\net8.0\If_Else.exe
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\bin\Debug\net8.0\If_Else.deps.json
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\bin\Debug\net8.0\If_Else.runtimeconfig.json
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\bin\Debug\net8.0\If_Else.dll
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\bin\Debug\net8.0\If_Else.pdb
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.AssemblyInfoInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.AssemblyInfo.cs
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.dll
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\refint\If_Else.dll
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.pdb
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\If_Else.genruntimeconfig.cache
+C:\Users\manis\source\repos\ConsoleApp1\If_Else\obj\Debug\net8.0\ref\If_Else.dll
